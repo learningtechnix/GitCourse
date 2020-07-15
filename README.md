@@ -2,6 +2,8 @@
 -----------------------
 ### For any queries email: *learningtechnix@gmail.com*
 
+![image](https://user-images.githubusercontent.com/64873197/87553537-a6abde00-c6d0-11ea-8422-e1aaaa5d3ec9.png)
+
 * **INTRODUCTION**
 
 * **Configuring GIT**
